@@ -14,7 +14,7 @@ It was most likely a serving hatch (an early version of a pass-through window) f
 A true anti-gluttony door would be highly inconvenient for daily operations. There is a wider regular door nearby. Cistercian monks followed a generally modest diet, and constructing a special architectural feature just for rare cases of overeating makes little sense. No contemporary medieval records confirm the gluttony-enforcement use.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUaKJf74-_TxH_-blY326VppwvTatRI21pusXMZIrpgCFw9mGd7eXJWJ5s6PR44e0fRIxF7VI4p_obwobSAQdeyyDQH8E6GNJSGEpUtdejPUGSBOjxvBNzDn_IBEQ8RmQ6oYQbs1iGExFWg1VPlVaZkFsuUm76e-VMYmdBQ0u21IiLREA_VmLpNen47fo/w640-h448/alcobaca-portugal-monastery-door-2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUaKJf74-_TxH_-blY326VppwvTatRI21pusXMZIrpgCFw9mGd7eXJWJ5s6PR44e0fRIxF7VI4p_obwobSAQdeyyDQH8E6GNJSGEpUtdejPUGSBOjxvBNzDn_IBEQ8RmQ6oYQbs1iGExFWg1VPlVaZkFsuUm76e-VMYmdBQ0u21IiLREA_VmLpNen47fo/s1000/alcobaca-portugal-monastery-door-2.jpg)  
-The story appears to have gained traction in recent decades, possibly popularized by tour guides for entertainment. The monastery itself acknowledges the legend but clarifies the practical serving purpose.
+The story appears to have gained traction in recent decades, possibly popularised by tour guides for entertainment. The monastery itself acknowledges the legend but clarifies the practical serving purpose.
 
 It’s a memorable, humorous anecdote that embodies stereotypes about medieval monks and the strictness of monastic life. Similar “anti-gluttony” stories exist for other sites, but evidence is thin across the board. The door remains a fun photo spot for visitors today.
 

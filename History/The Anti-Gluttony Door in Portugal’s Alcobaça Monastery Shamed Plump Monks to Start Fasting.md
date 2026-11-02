@@ -43,7 +43,7 @@ According to a [German Wikipedia entry](https://de.wikipedia.org/wiki/Kloster_Al
 
 ![](https://cdn8.openculture.com/2021/01/14180943/768px-Mosteiro_de_Alcobaca_94b.jpg)
 
-If you are assembling a bucket list of destinations for when we can travel freely again, consider [adding this beautiful Gothic monastery](http://www.mosteiroalcobaca.gov.pt/en/index.php?s=white&pid=11&identificador=) (and the [celebrated pastry shop](https://www.instagram.com/alcoa_pastelaria/?hl=en) across the street). Your choice whether or not to suck it in for a photo in front of the _porta pega-gordo._
+If you are assembling a bucket list of destinations for when we can travel freely again, consider [adding this beautiful Gothic monastery](https://mosteiroalcobaca.gov.pt/)
 
 **Related Content:**
 

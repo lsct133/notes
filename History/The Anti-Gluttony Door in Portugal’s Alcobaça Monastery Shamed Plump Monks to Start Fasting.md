@@ -41,7 +41,7 @@ History is a bit unclear on this point, though Beckford’s enthusiasm waned whe
 
 According to a [German Wikipedia entry](https://de.wikipedia.org/wiki/Kloster_Alcoba%C3%A7a), the monks passed through the porta pega-gordo monthly, rather than daily, a more manageable mortification of the flesh for those with healthy appetites.
 
-![](https://cdn8.openculture.com/2021/01/14180943/768px-Mosteiro_de_Alcobaca_94b.jpg)
+![](https://github.com/lsct133/assets/blob/main/notes/monastery-of-alcoba%C3%A7a.jpg?raw=true)
 
 If you are assembling a bucket list of destinations for when we can travel freely again, consider [adding this beautiful Gothic monastery](https://mosteiroalcobaca.gov.pt/)
 

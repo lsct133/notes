@@ -1,10 +1,10 @@
-# AI Prompts for Beginners & Beyond
+### AI Prompts for Beginners & Beyond
 
 I'll provide you with practical examples and guidance across all three perspectives you've requested.
 
 ---
 
-## Example 1: Four Easy AI Prompt Styles for Beginners
+### Example 1: Four Easy AI Prompt Styles for Beginners
 
 ### Comparison Prompt
 **"Compare solar energy and wind energy in terms of cost, efficiency, and environmental impact. What are the pros and cons of each?"**
@@ -14,7 +14,7 @@ This style works when you want to understand differences and make decisions betw
 ### Long, Detailed Prompt
 **"I'm planning a vegetable garden for the first time. I live in a temperate climate with moderate sunlight (about 6 hours per day). I have a small backyard about 4 by 6 meters. I want to grow tomatoes, lettuce, and herbs. Please explain what soil I need, how much space each plant requires, watering schedules, and common mistakes beginners make."**
 
-This style works when your situation is specific and you need detailed, personalized guidance.
+This style works when your situation is specific and you need detailed, personalised guidance.
 
 ### Short-Line Prompt
 **"What are the best practices for remote team communication?"**
@@ -28,7 +28,7 @@ This style works for straightforward topics where you just need a basic explanat
 
 ---
 
-## Example 2: A Simple Guide for New AI Users
+### Example 2: A Simple Guide for New AI Users
 
 ### Understanding Different Prompt Styles
 
@@ -44,7 +44,7 @@ This style works for straightforward topics where you just need a basic explanat
 
 ---
 
-## Example 3: Expert Tips — Basic vs. Better Prompts
+### Example 3: Expert Tips — Basic vs. Better Prompts
 
 An expert knows that **how you ask determines what you get.** Here's how to level up your prompts:
 
@@ -96,7 +96,7 @@ An expert knows that **how you ask determines what you get.** Here's how to leve
 
 ---
 
-## The Expert's Golden Rules
+### The Expert's Golden Rules
 
 1. **Always include your goal.** Don't just ask what something is—say why you need to know.
 

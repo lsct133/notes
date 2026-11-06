@@ -34,7 +34,7 @@ note.]
  * No quotation marks, no bullet points, no extra headings or commentary.
 
 Words: Abrogate Anecdata
-
+<!--  -->
 Prompt 2
 
 Write a short glossary entry (one or two sentences) for each of the following
@@ -44,5 +44,6 @@ with "Means" and written in natural, concise prose:
 
 Abrogate Anecdata
 
+#tags
 
 

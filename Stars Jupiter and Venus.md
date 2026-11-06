@@ -51,4 +51,4 @@ In Greek mythology, the Hyades were the daughters of Atlas and the half-sisters 
 
 Are you using binoculars, or just your naked eye? If you have binoculars handy, that V-shape will explode into dozens of tiny sparkling diamonds!
 
-#astronomy #the-universe #stars #night-sky #jupiter #venus #planets #north-west #west 
+#astronomy #the-universe #stars #night-sky

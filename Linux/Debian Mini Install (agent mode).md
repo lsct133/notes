@@ -96,3 +96,5 @@ apt clean
 | `--no-install-recommends` | Used    | Prevents bloat |
 
 You now have a very lean GNOME Wayland system that includes working Bluetooth while keeping everything else as minimal as possible.
+
+#debian

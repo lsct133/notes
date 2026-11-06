@@ -29,3 +29,5 @@ This method can be helpful for mental calculations
 
 14% of 100 is 14, or 0.14 in decimals.
 We use 14 x 100 to get the answer
+
+#maths

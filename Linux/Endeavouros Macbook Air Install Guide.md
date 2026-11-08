@@ -1,4 +1,4 @@
-# EndevOS MacBook Air Install Guide
+## EndevOS MacBook Air Install Guide
 
 **Target device:** Apple MacBook Air 13-inch (2017), MacBookAir7,2 / A1466, MQD32LL/A, 8 GB RAM
 

@@ -1,5 +1,0 @@
-Lebara sim details
-
-  ICCID: 89441000304665510711
-Mobile Number: 07349368615
-Barcode: 5060157 641193

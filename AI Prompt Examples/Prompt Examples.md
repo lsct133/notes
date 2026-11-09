@@ -1,0 +1,8 @@
+## AI Prompt Examples
+
+| Style | Beginner Prompt | Detailed Prompt | Expert Level Prompt |
+| :--- | :--- | :--- | :--- |
+| **Comparison** | Compare cats and dogs. | Compare the pros and cons of electric cars versus gas cars for a city commuter. | Compare the economic theories of Keynesianism and Monetarism. Contrast their views on government intervention and inflation control, providing a historical example for each. |
+| **Long/Detailed** | Write a long story about a space traveler who finds a new planet. | Write a 500-word short story about a space traveler who discovers a sentient crystal forest on a purple planet. Include descriptions of the sounds, the traveler's internal fear, and a dialogue with the forest. | Act as a professional sci-fi novelist. Write a detailed scene where a weary space traveler discovers a sentient crystal forest. Use a melancholic tone, focus on sensory details like the humming of the crystals, and ensure the dialogue reveals the traveler's backstory without explicitly stating it. |
+| **Short Line** | Give me a recipe for chocolate cake. | Give me a quick and easy recipe for a moist chocolate cake using only one bowl. | Provide a professional-grade recipe for a moist chocolate cake, including precise metric measurements and a guide for adjusting the oven temperature for high-altitude baking. |
+| **Very Short** | Write a poem. | Write a haiku. | Write a villanelle. |

@@ -1,0 +1,16 @@
+Find login shell pathnames
+
+  use this cmd:
+
+`cat /etc/shells`
+
+/bin/sh
+/bin/bash
+/bin/rbash
+/usr/bin/sh
+/usr/bin/bash
+/usr/bin/rbash
+/usr/bin/systemd-home-fallback-shell
+/usr/bin/git-shell
+/bin/zsh
+/usr/bin/zsh

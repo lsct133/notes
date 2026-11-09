@@ -6,3 +6,5 @@ Here are a few examples explained simply:
 *   **The "Politeness" Rule:** The idea that being "civil" or "polite" is more important than being fair. This often means that people in power tell others to "be quiet and be patient" instead of listening to why they are upset or angry.
 *   **The "One Right Way" Idea:** The belief that there is only one way to be successful, such as going to a specific kind of college or getting a specific kind of job. This looks down on other ways of learning, working, or helping a community.
 *   **The "Helping from Above" Feeling:** When people with power try to "fix" other people's lives without actually asking those people what they need. It is the idea that "I know what is best for you better than you do."
+
+>The bourgeoisie are a social class of business owners, merchants and wealthy people, in >general, which emerged in the Late Middle Ages, originally as a "middle class" between the >peasantry and aristocracy.

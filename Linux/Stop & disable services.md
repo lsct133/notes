@@ -2,11 +2,11 @@ Stop & disable services
 
   List all active and running services, use systemctl cmd:
 
-sudo systemctl list-units --type=service --state=running
+`sudo systemctl list-units --type=service --state=running`
 
 Check Open Ports and I.D Listening Services:
 
-sudo ss -tuln
+`sudo ss -tuln`
 
 These cmds display all TCP and UDP ports currently open and waiting for
 connections. For example, if you spot port 21 (used by FTP) open but you don’t
